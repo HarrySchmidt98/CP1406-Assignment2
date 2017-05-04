@@ -3,7 +3,10 @@
 
 File list:
 
- - CP1406-a2-flowchart.PNG
+ - CP1406-a2-flowchart.PNG - ***Used in Milestone 1***
  - P1406Assignment2.xml
- - plan.html
+ - plan.html - ***Used in Milestone 1***
  - README.md
+ - List-Artists-Page.png - ***Used in Milestone 1***
+ - Text-Based-Page.png - ***Used in Milestone 1***
+
