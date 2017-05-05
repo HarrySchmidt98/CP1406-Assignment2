@@ -9,4 +9,6 @@ File list:
  - README.md
  - List-Artists-Page.png - ***Used in Milestone 1***
  - Text-Based-Page.png - ***Used in Milestone 1***
+ - Home-Page.png - ***Used in Milestone 1***
+ - Developed-Page.png - ***Used in Milestone 1***
 
