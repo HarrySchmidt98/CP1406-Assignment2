@@ -1,5 +1,5 @@
 **CP1406 Assignment 2 **
-**Group:** E6 - Harry Schmidt, Nicholas Stanton-Cook, Christopher Thomas
+**Group:** E6 - Harry Schmidt, Christopher Thomas
 
 File list:
 
@@ -11,4 +11,3 @@ File list:
  - Text-Based-Page.png - ***Used in Milestone 1***
  - Home-Page.png - ***Used in Milestone 1***
  - Developed-Page.png - ***Used in Milestone 1***
-
