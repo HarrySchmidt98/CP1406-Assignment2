@@ -68,6 +68,35 @@ body {
   padding: 20px;
 }
 
+.event {
+  background-color: #B3D0E5;
+  border: solid 1px #025894;
+  margin-top: 10px;
+  padding-left: 20px;
+}
+
+.feature {
+  background-color: #d0e5b3;
+  border: solid 1px #025894;
+  margin-top: 10px;
+  padding-left: 20px;
+}
+
+.feature em {
+  color: red;
+  font-size: 14pt;
+}
+
+.feature a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.feature:hover {
+  margin-top: 10px;
+  padding-left: 20px;
+}
+
 .footer {
   background-color: #c7e8ff;
   margin-left: 10%;
