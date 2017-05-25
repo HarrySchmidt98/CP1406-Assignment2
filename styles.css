@@ -68,6 +68,11 @@ body {
   padding: 20px;
 }
 
+.artist img {
+  float: left;
+  margin-right: 10px;
+}
+
 .event {
   background-color: #B3D0E5;
   border: solid 1px #025894;
