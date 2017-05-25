@@ -68,6 +68,11 @@ body {
   padding: 20px;
 }
 
+.content img {
+  padding: 10px;
+}
+
+
 .artist img {
   float: left;
   margin-right: 10px;
